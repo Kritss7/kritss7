@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kritika 
 
-<!--
-**Kritss7/kritss7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer learning Git and open source contribution.
 
-Here are some ideas to get you started:
+## About Me
+Based in Delhi, India
+Currently learning: Git, GitHub, open source
+Ask me about: (anything you know or enjoy)
+Reach me at: srivastavakritika2712@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+Setting up my developer environment
+Making my first open source contribution
+
+## Fun fact
+I love to read
