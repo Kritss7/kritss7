@@ -1,6 +1,7 @@
 # Hi, I'm Kritika 
 
 I'm a beginner developer learning Git and open source contribution.
+Cloning my first repo locally
 
 ## About Me
 Based in Delhi, India
